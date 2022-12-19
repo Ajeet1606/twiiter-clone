@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Twitter Clone app, currently in building phase.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
